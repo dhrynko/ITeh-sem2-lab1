@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 3%;
+    background: #282c34;
+    color: #61dafb;
+    font-family: "Roboto Light", sans-serif;
+}
+
+.block {
+    display: flex;
+    flex-direction: column;
+}
